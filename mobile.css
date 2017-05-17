@@ -1,0 +1,536 @@
+@media screen and (max-width: 1680px) {
+    .wrapp,
+    .header,
+    .wrap-slider,
+    .products,
+    .brands,
+    .mainproducts,
+    .news,
+    .feedback,
+    footer{
+        width: 100%;
+        height: auto;
+        overflow: hidden;
+    }
+    .wrap-slider{
+        height: auto;
+        margin-top: 40px;
+    }
+    .header .nav{
+        height: 35px;
+    }
+    .sliderMain{
+        overflow: hidden;
+        position: relative;
+        width: 1270px;
+        height: auto;
+        margin: 0 auto;
+        padding-top: 28px;
+    }
+    .brands {
+        height: 350px;
+    }
+    .brands img {
+        margin-top: 50px;
+    }
+    .forms .name,
+    .forms .emails,
+    .forms .text,
+    .forms .chek,
+    .forms .butt input{
+        margin-left: 330px;
+    }
+}
+
+@media screen and (max-width: 1440px) {
+    .wrapp,
+    .header,
+    .wrap-slider,
+    .products,
+    .brands,
+    .mainproducts,
+    .news,
+    .feedback,
+    footer{
+        width: 100%;
+        height: auto;
+        overflow: hidden;
+    }
+    .wrap-slider{
+        height: auto;
+        margin-top: 40px;
+    }
+    .header .nav{
+        margin-left: 145px;
+        height: 35px;
+    }
+    .sliderMain{
+        overflow: hidden;
+        position: relative;
+        width: 1270px;
+        height: auto;
+        margin: 0 auto;
+        padding-top: 28px;
+    }
+    .brands {
+        height: 350px;
+    }
+    .brands img {
+        margin-top: 50px;
+    }
+    .mainproducts .imgcontent{
+        width: 50%;
+    }
+    .mainproducts .slidersm{
+        margin-left: 265px;
+        margin-top: 180px;
+    }
+    .forms .name,
+    .forms .emails,
+    .forms .text,
+    .forms .chek,
+    .forms .butt input{
+        margin-left: 205px;
+    }
+}
+
+
+@media screen and (max-width: 1366px) {
+    .wrapp,
+    .header,
+    .wrap-slider,
+    .products,
+    .brands,
+    .mainproducts,
+    .news,
+    .feedback,
+    footer{
+        width: 100%;
+        height: auto;
+        overflow: hidden;
+    }
+    .wrap-slider{
+        height: auto;
+        margin-top: 40px;
+    }
+    .header .nav{
+        margin-left: 145px;
+        height: 35px;
+    }
+    .sliderMain{
+        overflow: hidden;
+        position: relative;
+        width: 1270px;
+        height: auto;
+        margin: 0 auto;
+        padding-top: 28px;
+    }
+    .brands {
+        height: 350px;
+    }
+    .brands img {
+        margin-top: 50px;
+        margin-left: 50px;
+    }
+    .products {
+        height: 1750px;
+    }
+    .products-filter {
+        margin-left: 0;
+        margin-right: 0;
+    }
+    .mainproducts .imgcontent{
+        width: 50%;
+    }
+    .mainproducts .imgcontent img{
+        width: 100%;
+    }
+    .mainproducts .slidersm{
+        margin-left: 155px;
+        margin-top: 50px;
+    }
+    .forms .name,
+    .forms .emails,
+    .forms .text,
+    .forms .chek,
+    .forms .butt input{
+        margin-left: 205px;
+    }
+}
+
+@media screen and (max-width: 1280px) {
+    .wrapp,
+    .header,
+    .wrap-slider,
+    .products,
+    .brands,
+    .mainproducts,
+    .news,
+    .feedback,
+    footer{
+        width: 100%;
+        height: auto;
+        overflow: hidden;
+    }
+    .wrap-slider{
+        height: auto;
+        margin-top: 40px;
+    }
+    .header .nav{
+        margin-left: 85px;
+        height: 35px;
+    }
+    .sliderMain{
+        overflow: hidden;
+        position: relative;
+        width: 1270px;
+        height: auto;
+        margin: 0 auto;
+        padding-top: 28px;
+    }
+    .brands {
+        height: 350px;
+    }
+    .brands img {
+        margin-top: 50px;
+        margin-left: 50px;
+    }
+    .products {
+        height: 1750px;
+    }
+    .products-filter {
+        margin-left: 0;
+        margin-right: 0;
+    }
+    .mainproducts .imgcontent{
+        width: 50%;
+    }
+    .mainproducts .imgcontent img{
+        width: 100%;
+    }
+    .mainproducts .slidersm{
+        margin-left: 155px;
+        margin-top: 50px;
+    }
+    .forms .name,
+    .forms .emails,
+    .forms .text,
+    .forms .chek,
+    .forms .butt input{
+        margin-left: 205px;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    .wrapp,
+    .header,
+    .wrap-slider,
+    .products,
+    .brands,
+    .mainproducts,
+    .news,
+    .feedback,
+    footer{
+        width: 100%;
+        height: auto;
+        overflow: hidden;
+    }
+    .wrap-slider{
+        height: auto;
+        margin-top: 40px;
+    }
+    .header .nav{
+        margin-left: 85px;
+        height: 35px;
+    }
+    .sliderMain{
+        overflow: hidden;
+        position: relative;
+        width: 1270px;
+        height: auto;
+        margin: 0 auto;
+        padding-top: 28px;
+    }
+    .brands {
+        height: 350px;
+    }
+    .brands img {
+        margin-top: 50px;
+        margin-left: 50px;
+    }
+    .products {
+        height: 1750px;
+    }
+    .products-filter {
+        margin-left: 0;
+        margin-right: 0;
+    }
+    .mainproducts .imgcontent{
+        width: 50%;
+    }
+    .mainproducts .imgcontent img{
+        width: 100%;
+    }
+    .mainproducts .slidersm{
+        margin-left: 155px;
+        margin-top: 50px;
+    }
+    .forms .name,
+    .forms .emails,
+    .forms .text,
+    .forms .chek,
+    .forms .butt input{
+        margin-left: 205px;
+    }
+}
+
+@media screen and (max-width: 1270px) {
+    .wrapp,
+    .header,
+    .wrap-slider,
+    .products,
+    .brands,
+    .mainproducts,
+    .news,
+    .feedback,
+    footer{
+        width: 100%;
+        height: auto;
+        overflow: hidden;
+    }
+    .header .left-column{
+        margin-left: 40%;
+    }
+    .header .right-column{
+        display: none;
+    }
+    .header .logo{
+        display: block;
+        margin-left: 40%;
+    }
+    .header .userbar{
+        display: block;
+        margin-right: 33%;
+        margin-top: 40px;
+    }
+    .wrap-slider{
+        height: auto;
+        margin-top: 40px;
+    }
+    .header .nav{
+        display: none;
+    }
+    .sliderMain{
+        overflow: hidden;
+        position: relative;
+        width: 1270px;
+        height: auto;
+        margin: 0 auto;
+        padding-top: 28px;
+    }
+    .brands {
+        height: 350px;
+    }
+    .brands img {
+        margin-top: 50px;
+        margin-left: 50px;
+    }
+    .products {
+        height: 1750px;
+    }
+    .products-filter {
+        margin-left: 0;
+        margin-right: 0;
+    }
+    .mainproducts .imgcontent{
+        width: 50%;
+    }
+    .mainproducts .imgcontent img{
+        width: 100%;
+    }
+    .mainproducts .slidersm{
+        margin-left: 155px;
+        margin-top: 50px;
+    }
+    .forms .name,
+    .forms .emails,
+    .forms .text,
+    .forms .chek,
+    .forms .butt input{
+        margin-left: 120px;
+    }
+}
+
+
+@media screen and (max-width: 1024px) {
+    .wrapp,
+    .header,
+    .wrap-slider,
+    .products,
+    .brands,
+    .mainproducts,
+    .news,
+    .feedback,
+    footer{
+        width: 100%;
+        height: auto;
+        overflow: hidden;
+    }
+    .header .left-column{
+        margin-left: 40%;
+    }
+    .header .right-column{
+        display: none;
+    }
+    .header .logo{
+        display: block;
+        margin-left: 40%;
+    }
+    .header .userbar{
+        display: block;
+        margin-right: 26%;
+        margin-top: 40px;
+    }
+    .wrap-slider{
+        height: auto;
+        margin-top: 40px;
+    }
+    .header .nav{
+        display: none;
+    }
+    .sliderMain{
+        overflow: hidden;
+        position: relative;
+        width: 1270px;
+        height: auto;
+        margin: 0 auto;
+        padding-top: 28px;
+    }
+    .brands {
+        height: 350px;
+    }
+    .brands img {
+        margin-top: 50px;
+        margin-left: 50px;
+    }
+    .products {
+        height: 2220px;
+
+    }
+    .products-filter {
+        margin-left: 0;
+        margin-right: 0;
+    }
+    .mainproducts {
+        height: 1440px;
+    }
+
+    .mainproducts .imgcontent{
+        width: 100%;
+    }
+    .mainproducts .imgcontent img{
+        width: 100%;
+    }
+    .mainproducts .slidersm{
+        margin-left: 31%;
+        margin-top: 0;
+
+    }
+    .forms .name,
+    .forms .emails,
+    .forms .text,
+    .forms .chek,
+    .forms .butt input{
+        margin-left: 30px;
+        display: block;
+    }
+    .forms .surname {
+        display: block;
+        margin-left: 120px;
+    }
+    .forms .emails input {
+        width: 80%;
+    }
+    .forms .text input {
+        width: 80%;
+        height: 370px;
+        resize: none;
+    }
+}
+
+@media screen and (max-width: 800px) {
+    .wrapp,
+    .header,
+    .wrap-slider,
+    .products,
+    .brands,
+    .mainproducts,
+    .news,
+    .feedback,
+    footer{
+        width: 100%;
+        height: auto;
+        overflow: hidden;
+    }
+    .header .left-column{
+        margin-left: 40%;
+    }
+    .header .right-column{
+        display: none;
+    }
+    .header .logo{
+        display: block;
+        margin-left: 40%;
+    }
+    .header .userbar{
+        display: block;
+        margin-right: 17%;
+        margin-top: 40px;
+    }
+    .wrap-slider{
+        height: auto;
+        margin-top: 40px;
+    }
+    .header .nav{
+        display: none;
+    }
+    .sliderMain{
+        overflow: hidden;
+        position: relative;
+        width: 1270px;
+        height: auto;
+        margin: 0 auto;
+        padding-top: 28px;
+    }
+    .brands {
+        height: 350px;
+    }
+    .brands img {
+        margin-top: 50px;
+        margin-left: 50px;
+    }
+    .products {
+        height: 1750px;
+    }
+    .products-filter {
+        margin-left: 0;
+        margin-right: 0;
+    }
+    .mainproducts .imgcontent{
+        width: 50%;
+    }
+    .mainproducts .imgcontent img{
+        width: 100%;
+    }
+    .mainproducts .slidersm{
+        margin-left: 155px;
+        margin-top: 50px;
+    }
+    .forms .name,
+    .forms .emails,
+    .forms .text,
+    .forms .chek,
+    .forms .butt input{
+        margin-left: 120px;
+    }
+}
